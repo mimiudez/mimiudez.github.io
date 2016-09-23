@@ -8,3 +8,13 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1
+{
+  color: blue;
+  font-family: fantasy;
+}
+.awesome {
+  color: pink;
+  font-style: italic;
+
+}
