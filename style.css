@@ -1,8 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-image: url(linedpaper.png);
-  background-repeat: repeat;
+  background-color: blue
 }
 #wrapper {
   width: 960px;
@@ -10,11 +9,20 @@ body {
 }
 h1
 {
-  color: blue;
+  color: white;
   font-family: fantasy;
+  font-size: 75px;
 }
 .awesome {
   color: pink;
   font-style: italic;
 
+}
+h4
+{
+  color: white;
+}
+h3
+{
+  color: white
 }
