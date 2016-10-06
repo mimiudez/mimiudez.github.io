@@ -1,7 +1,5 @@
-body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background-color: blue
+nav {
+  color: blue
 }
 #wrapper {
   width: 960px;
