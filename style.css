@@ -7,7 +7,6 @@ nav {
 }
 h1
 {
-  color: white;
   font-family: fantasy;
   font-size: 75px;
 }
@@ -23,4 +22,14 @@ h4
 h3
 {
   color: white
+}
+.page-header
+{color:blue
+}
+header
+{width:100}
+.subhead{
+font-style: italic;
+font-family: cursive;
+font-size: 50%
 }
