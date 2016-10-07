@@ -24,7 +24,8 @@ h3
   color: grey
 }
 .page-header
-{color:blue
+{color:blue;
+  background-color: white;
 }
 header{
   width:100
@@ -41,4 +42,17 @@ font-size: 50%
 .fancy{
   font-family: 'Kaushan Script', cursive;
 
+}
+#banner{
+  background-color:#d3d3d3;
+}
+#maintext{
+  font-family: 'Happy Monkey', cursive;
+  font-size: 150%
+}
+.jumbotron{
+  background-color: transparent;
+}
+body{
+  background-image: url(https://www.pandora.com/img/splash.jpg);
 }
